@@ -1,6 +1,13 @@
-# Experiment Setup
+# Welcome to the JS Research Suite.
 
-The three types of factors in our experiment are
+This will help you build experiments and collect data using simple javascript functions. 
+
+The suite is designed to support multifactorial experimental design. 
+
+
+# Example Experiment Setup
+
+The three types of factors in our experiment are:
 
 - environment
 - avatar
