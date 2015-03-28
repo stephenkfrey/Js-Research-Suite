@@ -4,6 +4,10 @@ This will help you build experiments and collect data using simple javascript fu
 
 The suite is designed to support multifactorial experimental design. 
 
+This code can be used alongside my[Product Design + Research Toolkit] and [Methods to Test User Behavior]. 
+
+
+
 
 # Example Experiment Setup
 
@@ -138,9 +142,9 @@ valuesToRun = values.length
 orderingStyle = “NonRepeatingRandom”
 
 
+[Product Design + Research Toolkit]:https://docs.google.com/document/d/1XIJK_cYcnPhXlydfBbOARORfYReq7Ph0fqvzysZYyM4/edit?usp=sharing
 
-
-
+[Methods to Test User Behavior]:https://docs.google.com/document/d/1XM0Taf3mmODVuCgIxCk8FiDWvU9tYxiHoIYUUSckwLc/edit?usp=sharing
 
 
 
