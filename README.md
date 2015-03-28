@@ -4,7 +4,7 @@ This will help you build experiments and collect data using simple javascript fu
 
 The suite is designed to support multifactorial experimental design. 
 
-This code can be used alongside my[Product Design + Research Toolkit] and [Methods to Test User Behavior]. 
+This code can be used alongside my [Product Design + Research Toolkit] and [Methods to Test User Behavior]. 
 
 
 
